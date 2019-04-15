@@ -21,7 +21,7 @@ body html {
 }
 
 #gradient-overlay {
-    background-image: url(images/connections.jpg);
+    background-image: url(Images/connections.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -50,7 +50,7 @@ h2 {
     font-weight: bold;
 }
 
-.harvey {
+.Harvey {
 	position: relative;
 	display: block;
 	overflow: hidden;
@@ -60,10 +60,10 @@ h2 {
   height:300px;
   border-radius: 50%;
 }
-.harvey img {
+.Harvey img {
 	max-width: 100%;
   }
-.harvey .harvey_top {
+.Harvey .harvey_top {
 	opacity: 0;
 	position: absolute;
 	top: 0;
@@ -75,11 +75,11 @@ h2 {
 	padding: 15px;
 	transition: all 0.4s ease-in-out 0s;
   }
-.harvey:hover .harvey_top,
-.harvey.active .harvey_top {
+.Harvey:hover .Harvey_top,
+.Harvey.active .Harvey_top {
 	opacity: 1;
   }
-.harvey .harvey-text {
+.Harvey .Harvey-text {
   font-family: 'Open Sans Condensed', sans-serif;
 	text-align: center;
 	font-size: 25px;
@@ -132,7 +132,7 @@ h2 {
 	transform: translate(-50%, -50%);
 }
 
-.mike {
+.Mike {
 	position: relative;
 	display: block;
 	overflow: hidden;
@@ -142,10 +142,10 @@ h2 {
   height:300px;
   border-radius: 50%;
 }
-.mike img {
+.Mike img {
 	max-width: 100%;
 }
-.mike .mike_top {
+.Mike .Mike_top {
 	opacity: 0;
 	position: absolute;
 	top: 0;
@@ -157,11 +157,11 @@ h2 {
 	padding: 15px;
 	transition: all 0.4s ease-in-out 0s;
 }
-.mike:hover .mike_top,
-.mike.active .mike_top {
+.Mike:hover .Mike_top,
+.Mike.active .Mike_top {
 	opacity: 1;
 }
-.mike .mike-text {
+.Mike .Mike-text {
   font-family: 'Open Sans Condensed', sans-serif;
 	text-align: center;
 	font-size: 25px;
